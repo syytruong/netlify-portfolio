@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Sy Truong",
+    "occupation": "Junior Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Sy! I am a junior web developer. I've been coding for over 1 year now. In my first job, I worked with client, which is a large corporations to help build & scale their companies. As a team player, I involved in different roles of the team as I first applied for frontend position then jumped to backend as well as database tasks",
+    "contactmessage": "Get in touch with me if you have any question or offer!",
+    "email": "syqtruong@gmail.com",
+    "phone": "+358 442380989",
+    "address": {
+      "street": "Pronssitie 4A 006",
+      "city": "Helsinki",
+      "state": "Uusima",
+      "zip": "00440"
+    },
+    "website": "https://medium.com/@sytruong",
+    "resumedownload": "https://www.dropbox.com/s/6062ah6rr0clf9b/Sy%20Truong%20CV.pdf?dl=1",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sy-q-truong",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/syytruong",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Metropolia University of Applied Sciences - Finland",
+        "degree": "Bachelor's Degree, Information & Technology",
+        "graduated": "May 2021",
+        "description": "Major: Software Engineering"
+      }
+    ],
+    "work": [
+      {
+        "company": "NFQ",
+        "title": "Junior Developer",
+        "years": "Mar 2019 - Sep 2020",
+        "description": "Implement user interface using Angular later React, writing APIs and translate Nodejs to Expressjs. Familiar with Nestjs and Nextjs. Involve in restructure MySQL database by migration files. Applying unit test into the project"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Angular",
+        "level": "80%"
+      },
+      {
+        "name": "Vuejs",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "55%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Database",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon-clone.jpg",
+        "url": "https://clone-a2517.web.app/"
+      },
+      {
+        "title": "Slack Clone (React JS)",
+        "category": "",
+        "image": "slack-ui.jpg",
+        "url": "https://my-slack-version.web.app/"
+      },
+      {
+        "title": "Spotify with lyrics version (React JS)",
+        "category": "",
+        "image": "spotify_with_lyrics.png",
+        "url": "https://github.com/syytruong/my-spotify"
+      },
+      {
+        "title": "Google Clone (React JS)",
+        "category": "",
+        "image": "google-clone.jpg",
+        "url": "https://clone-78f52.web.app/"
+      },
+      {
+        "title": "Covid19 Tracker",
+        "category": "",
+        "image": "covid19-tracker.png",
+        "url": "https://covid19-tracker-five-weld.vercel.app/"
+      },
+      {
+        "title": "Amazon Clone 2.0 (with Nextjs)",
+        "category": "",
+        "image": "amazon-with-nextjs.png",
+        "url": "https://amazon-2-0-nextjs.vercel.app/"
+      },
+      {
+        "title": "Calendar (Vue)",
+        "category": "",
+        "image": "vuetify-calendar.png",
+        "url": "https://vue-calendar-1c737.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sy is absolutely excellent, he's detail oriented and reliable. His creativity makes my life easier working with him",
+        "user": "Adam Curtis"
+      },
+      {
+        "text": "Working with Sy is awesome! He's a great teammate and wants to help other people. As a fresher, I love to work with someone like him",
+        "user": "Duong Le"
+      }
+    ]
+  }
+}
